@@ -10,6 +10,6 @@ dependencies:
   # python modules
   python: requirements.txt
   # collections
-  #galaxy: requirements.yml
+  galaxy: requirements.yml
   # If you need to install dependencies with yum/dnf
   #system: bindep.txt
