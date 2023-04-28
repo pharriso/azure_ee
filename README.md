@@ -11,7 +11,7 @@ Requirements
 Installing ansible-builder
 ------------
 
-Follow the official [docs to install ansible-builder](https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html/ansible_builder_guide/assembly-using-builder).
+Follow the official [docs to install ansible-builder](https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.3/html/ansible_builder_guide/assembly-using-builder).
 
 **Note** the bundled installer includes the RPMS. Enable the local repository in **/etc/yum.repos.d/ansible-automation-platform.repo** and install ansible-builder with yum/dnf.
 
